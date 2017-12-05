@@ -1,3 +1,5 @@
+
+
 function forLoop(array){
   for (var = 1 ; i < 25; i++){
     if(i === 1){
@@ -6,3 +8,4 @@ function forLoop(array){
   }
   return array
 }
+
